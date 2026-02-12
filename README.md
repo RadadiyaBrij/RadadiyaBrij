@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning<br>
+<h1 align="center">Hi, I'm Brij Radadiya 👋</h1>
+<h3 align="center">B.Tech Mathematics & Computing @ SVNIT Surat</h3>
 
 
 # 💻 Tech Stack:
@@ -8,6 +9,40 @@ I'm currently learning<br>
 ![](https://github-readme-stats.vercel.app/api?username=RadadiyaBrij&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RadadiyaBrij&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadadiyaBrij&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 📌 Featured Projects
+
+### 🧠 MindSettler – Mental Wellness Platform (Full Stack)
+A privacy-focused mental wellness platform providing psycho-education, AI-guided navigation, and session booking.
+
+🔗 Live: https://mind-settler-gwoc-26.vercel.app/  
+📂 Repo: https://github.com/InspireEmber/MindSettler-GWOC-26  
+
+**Highlights**
+- Secure authentication and appointment workflows
+- Admin dashboard for slot + booking management
+- AI chatbot via OpenRouter (non-diagnostic guidance)
+- Automated email notifications (Brevo) + Google Calendar integration
+
+**Tech:** Next.js, React, Node.js, Express, MongoDB, Tailwind CSS, Framer Motion, Cloudinary  
+
+---
+
+### 🏠 Genesis – Real Estate Investment Analyzer (Hybrid RAG)
+A deterministic Buy vs Rent financial analyzer for Kolkata real estate using an **LLM-as-Explainer** design.
+
+🔗 Live: https://nava-deep-18-real-estate-analyser-app-tw5zod.streamlit.app/  
+📂 Repo: https://github.com/Nava-deep-18/Real_estate_analyser  
+
+**Highlights**
+- Pipeline processes **2,500+** Kolkata residential listings
+- SQL for structured queries + ChromaDB for semantic retrieval
+- 20-year wealth simulation with tax optimization logic
+- Prevents hallucination by keeping financial calculations deterministic
+
+**Tech:** Python, Streamlit, Pandas, SQLite, ChromaDB, OpenRouter (LLM), RAG  
+
+---
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RadadiyaBrij&icon=0&color=0)](https://visitcount.itsvg.in)
