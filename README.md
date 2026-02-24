@@ -13,6 +13,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=RadadiyaBrij&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadadiyaBrij&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RadadiyaBrij/RadadiyaBrij/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RadadiyaBrij/RadadiyaBrij/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RadadiyaBrij/RadadiyaBrij/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 ## 📌 Featured Projects
 
 ### 🧠 MindSettler – Mental Wellness Platform (Full Stack)
