@@ -1,9 +1,9 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # run automatically every day at midnight
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 0 * * *" 
   
   # allows you to manually run the job at any time
   workflow_dispatch:
@@ -15,6 +15,8 @@ on:
     
 jobs:
   generate:
+    permissions: 
+      contents: write # This line fixes the 128 error!
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
